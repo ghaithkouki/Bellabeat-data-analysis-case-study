@@ -80,7 +80,7 @@ Excel will be used to load and take an initial pass for issues, R to transform a
 5) In the `weightLogInfo_merged` file, there are only two entries for the Fat field so this will not be used to draw insights. 
 
 ## Transform and Explore 
-All R code can be found [here](https://github.com/CoolBeansProgramming/Bellabeat-Case-Study/blob/main/BellaBeat_RScript.R).
+All R code can be found [here](https://github.com/ghaithkouki/Bellabeat-data-analysis-case-study/blob/main/BellaBeat_RScript).
 
 1) Load the tidyverse package and data files 
 2) Check to see if the data has been loaded correctly
