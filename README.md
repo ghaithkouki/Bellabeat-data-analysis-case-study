@@ -133,7 +133,7 @@ summary()
 
 The average user weighs 72.04 kg, has a BMI of 25.19, and spent the most time doing light activities. On average, they also slept 6.9 hours, took 7638 steps, and traveled 5.49 km per day. 
 
-![Steps by Day](https://github.com/ghaithkouki/Bellabeat-data-analysis-case-study/tree/main/images/Total%20steps%20by%20day.png?raw=true "Steps by Day")
+![Steps by Day](https://github.com/ghaithkouki/Bellabeat-data-analysis-case-study/blob/main/images/Total%20steps%20by%20day.png)
 
 Users took the most steps on Sundays and the least number of steps on Fridays. As all the values are fairly high, the marketing team can conclude that users value the step feature of health fitness devices. They could also assume that the feature will be very useful for Bellabeat customers. 
 
