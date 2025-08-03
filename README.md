@@ -137,7 +137,7 @@ The average user weighs 72.04 kg, has a BMI of 25.19, and spent the most time do
 
 Users took the most steps on Sundays and the least number of steps on Fridays. As all the values are fairly high, the marketing team can conclude that users value the step feature of health fitness devices. They could also assume that the feature will be very useful for Bellabeat customers. 
 
-![Fairly Active Minutes by Day](https://github.com/ghaithkouki/Bellabeat-data-analysis-case-study/tree/main/images/Minutes%20of%20moderate%20activity%20per%20day.png?raw=true "Fairly Active Minutes by Day")
+![Fairly Active Minutes by Day](https://github.com/ghaithkouki/Bellabeat-data-analysis-case-study/blob/main/images/Total%20steps%20by%20day.png)
 
 It is interesting to see that the amount of time spent being fairly active decreased on Wednesdays and then picks back up on Thursdays. This may be due to the fact that most people are going back to work on Monday and then may get discouraged or tired by Wednesday. Wednesday may also be a popular rest day, allowing them to resume their activities on Thursday. 
 
